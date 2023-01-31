@@ -1,1 +1,1 @@
-# Exam-Project-1st-semsester
+# Exam-Project-1st-semester
