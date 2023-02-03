@@ -6,5 +6,7 @@ With this website I attempted to solve the problem among the young generation wh
 
 How to see the code and the website? 
 1st download the code
+
 2st open the folder
+
 3st cross fingers and let's hope it works! :D
